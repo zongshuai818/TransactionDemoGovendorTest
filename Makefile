@@ -1,5 +1,6 @@
 GOCMD = go
 GOBUILD = $(GOCMD) build
+GOTEST = $(GOCMD) test
 
 BINARY_NAME = RUN
 
@@ -10,6 +11,7 @@ run:
 	./$(BINARY_NAME)
 clean:
 	rm -f $(BINARY_NAME)
-
-
+test:
+	$(GOTEST) ./Cachelab -cover
+	$(GOTEST) ./Bitcion -cover
 	

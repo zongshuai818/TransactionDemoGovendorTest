@@ -1,7 +1,7 @@
 package main
 
 import (
-	Btc "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Bitcion"
+	Btc "github.com/zongshuai818/TransactionDemoGovendorTest/Bitcion"
 	"fmt"
         "github.com/lxdeng/golibstrings"
 )

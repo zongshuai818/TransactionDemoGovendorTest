@@ -7,14 +7,6 @@
 			"path": "github.com/lxdeng/golibstrings",
 			"revision": "722371f139fb9f08c00c59654a0c2802ecaf4f93",
 			"revisionTime": "2017-11-07T23:34:09Z"
-		},
-		{
-			"path": "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Bitcion",
-			"revision": ""
-		},
-		{
-			"path": "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Cachelab",
-			"revision": ""
 		}
 	],
 	"rootPath": "github.com/zongshuai818/TransactionDemoGovendorTest"

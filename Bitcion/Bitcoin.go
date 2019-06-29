@@ -1,7 +1,7 @@
 package Bitcoin
 
 import (
-	Ccl "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Cachelab"
+	Ccl "github.com/zongshuai818/TransactionDemoGovendorTest/Cachelab"
 	"fmt"
 	"strconv"
 )
