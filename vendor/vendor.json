@@ -9,17 +9,13 @@
 			"revisionTime": "2017-11-07T23:34:09Z"
 		},
 		{
-			"checksumSHA1": "8jYmKmBKijzu+KQCHsYoatLYuGc=",
-			"path": "github.com/zongshuai818/Bitcion",
-			"revision": "4923f813319b29ca7d4404c14afa74a662d348a8",
-			"revisionTime": "2019-06-29T03:18:49Z"
+			"path": "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Bitcion",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "KKS7p90fjKK2rpJmRfajSZsSxnU=",
-			"path": "github.com/zongshuai818/Cachelab",
-			"revision": "9079ea08c8f904bff69c7edbadfd61ec9fb969c2",
-			"revisionTime": "2019-06-29T02:59:45Z"
+			"path": "github.com/zongshuai818/TransactionDemoGovendorTest/tree/master/Cachelab",
+			"revision": ""
 		}
 	],
-	"rootPath": "github.com/zongshuai818/TransactionForGovendorTest"
+	"rootPath": "github.com/zongshuai818/TransactionDemoGovendorTest"
 }
